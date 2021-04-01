@@ -8,4 +8,5 @@ if Time.now.hour - 12<= 0
     resp.write "Good Afternoon!"
   end
     resp.finish
+  end
 end
